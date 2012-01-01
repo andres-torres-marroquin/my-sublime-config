@@ -4,3 +4,6 @@
 [submodule "SCSS"]
 	path = SCSS
 	url = https://github.com/kuroir/SCSS.tmbundle.git
+[submodule "SASS"]
+	path = SASS
+	url = https://github.com/n00ge/sublime-text-haml-sass.git
