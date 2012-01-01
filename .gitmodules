@@ -1,3 +1,6 @@
 [submodule "CoffeeScript"]
 	path = CoffeeScript
 	url = https://github.com/jashkenas/coffee-script-tmbundle
+[submodule "SCSS"]
+	path = SCSS
+	url = https://github.com/kuroir/SCSS.tmbundle.git
