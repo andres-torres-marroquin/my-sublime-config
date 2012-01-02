@@ -7,3 +7,6 @@
 [submodule "SASS"]
 	path = SASS
 	url = https://github.com/n00ge/sublime-text-haml-sass.git
+[submodule "Django"]
+	path = Django
+	url = https://github.com/fxdgear/sublime-text-django-snippets
