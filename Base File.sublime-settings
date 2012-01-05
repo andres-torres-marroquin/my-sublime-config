@@ -1,13 +1,15 @@
-// Settings in here override those in "Default/Base File.sublime-settings", and
-// are overridden in turn by file type specific settings. Place your settings
-// here, to ensure they're preserved when upgrading.
 {
-    "highlight_line": true,
-    "word_wrap": false,
-    "trim_trailing_white_space_on_save": true,
-    "shift_tab_unindent": true,
-    "trim_automatic_white_space": true,
-    "rulers": [80, 120],
-    "draw_minimap_border": true,
-    "translate_tabs_to_spaces": true
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_minimap_border": true,
+	"highlight_line": true,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"shift_tab_unindent": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
