@@ -5,6 +5,9 @@ Installing on Mac OSX:
     git clone git@github.com:andres-torres-marroquin/my-sublime-config.git .
     git submodule init
     git submodule update
+    cd ..
+    rm -rf SublimeLinter
+    git clone git://github.com/Kronuz/SublimeLinter.git
 
 Installing on Linux:
 
@@ -13,3 +16,6 @@ Installing on Linux:
     git clone git@github.com:andres-torres-marroquin/my-sublime-config.git .
     git submodule init
     git submodule update
+    cd ..
+    rm -rf SublimeLinter
+    git clone git://github.com/Kronuz/SublimeLinter.git
