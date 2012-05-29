@@ -1,6 +1,6 @@
 Installing on Mac OSX:
 
-    cd https://github.com/wbond/sublime_package_control
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     rm -rf User "Package Control"
     git clone https://andres-torres-marroquin@github.com/andres-torres-marroquin/my-sublime-config.git User
     git clone https://github.com/wbond/sublime_package_control.git "Package Control"
