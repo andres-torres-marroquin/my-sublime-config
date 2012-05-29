@@ -1,0 +1,13 @@
+{
+	"auto_upgrade_last_run": 1338299145,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"SetDjangoSyntax",
+		"SFTP",
+		"SublimeLinter"
+	]
+}
