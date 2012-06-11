@@ -2,6 +2,11 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_minimap_border": true,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"SetDjangoSyntax"
+	],
 	"rulers":
 	[
 		80,
