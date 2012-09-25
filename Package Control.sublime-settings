@@ -4,6 +4,7 @@
 	[
 		"CoffeeScript",
 		"Djaneiro",
+		"jQuery",
 		"LESS",
 		"Package Control",
 		"SCSS",
