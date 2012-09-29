@@ -1,17 +1,22 @@
 {
-	"auto_upgrade_last_run": 1348753965,
+	"auto_upgrade_last_run": 1348928602,
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"copy-file-name",
 		"Djaneiro",
+		"Gist",
 		"jQuery",
 		"LESS",
+		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
 		"SCSS",
 		"SetDjangoSyntax",
 		"SFTP",
 		"SublimeLinter",
-		"Tag"
+		"SublimeRope",
+		"Tag",
+		"Twitter Bootstrap Snippets"
 	]
 }
