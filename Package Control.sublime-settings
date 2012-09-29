@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1348536749,
+	"auto_upgrade_last_run": 1348753965,
 	"installed_packages":
 	[
 		"CoffeeScript",
@@ -7,6 +7,7 @@
 		"jQuery",
 		"LESS",
 		"Package Control",
+		"Pretty JSON",
 		"SCSS",
 		"SetDjangoSyntax",
 		"SFTP",
