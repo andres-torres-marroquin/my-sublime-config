@@ -1,16 +1,18 @@
 {
-	"auto_upgrade_last_run": 1348928602,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"CoffeeScript",
 		"copy-file-name",
 		"Djaneiro",
 		"Gist",
+		"Handlebars",
 		"jQuery",
 		"LESS",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
+		"RunCommand",
 		"SCSS",
 		"SetDjangoSyntax",
 		"SFTP",
