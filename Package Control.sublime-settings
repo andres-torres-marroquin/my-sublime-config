@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"CoffeeScript",
+		"ColorPicker",
 		"copy-file-name",
 		"Djaneiro",
 		"Gist",
@@ -13,6 +14,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"RunCommand",
+		"Sass",
 		"SCSS",
 		"SetDjangoSyntax",
 		"SFTP",
