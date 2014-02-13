@@ -2,11 +2,15 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
 		"CoffeeScript",
 		"ColorPicker",
 		"copy-file-name",
 		"Djaneiro",
 		"Gist",
+		"Git",
+		"GitGutter",
 		"Handlebars",
 		"Jinja2",
 		"jQuery",
@@ -20,6 +24,7 @@
 		"SetDjangoSyntax",
 		"SFTP",
 		"SublimeLinter",
+		"SublimeLinter-pep8",
 		"SublimeRope",
 		"Tag",
 		"Twitter Bootstrap Snippets"
