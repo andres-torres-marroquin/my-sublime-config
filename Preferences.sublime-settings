@@ -9,13 +9,13 @@
 	"ignored_packages":
 	[
 		"SetDjangoSyntax",
-		"SideBarEnhancements",
-		"Markdown Preview",
 		"Floobits",
-		"jQuery",
-		"SublimeLinter",
+		"Vintage",
+		"Markdown Preview",
 		"Gist",
-		"Vintage"
+		"SublimeLinter",
+		"SideBarEnhancements",
+		"jQuery"
 	],
 	"max-line-length": 999,
 	"rulers":
