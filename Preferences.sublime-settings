@@ -8,18 +8,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"CoffeeScript",
-		"Floobits",
-		"Gist",
-		"jQuery",
-		"Markdown Preview",
-		"RunCommand",
-		"SetDjangoSyntax",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeRope",
-		"Tag",
-		"Vintage"
 	],
 	"max-line-length": 999,
 	"rulers":

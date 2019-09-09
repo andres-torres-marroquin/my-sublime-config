@@ -3,40 +3,25 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"CoffeeScript",
-		"RunCommand",
-		"SublimeRope",
-		"Tag"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Better CoffeeScript",
-		"CoffeeScript",
 		"ColorPicker",
 		"Djaneiro",
-		"Floobits",
 		"Gist",
 		"Git",
 		"GitGutter",
 		"Handlebars",
 		"Jinja2",
-		"jQuery",
 		"LESS",
 		"Package Control",
 		"Pretty JSON",
-		"RunCommand",
 		"Sass",
 		"SCSS",
-		"SetDjangoSyntax",
 		"SFTP",
-		"SideBarEnhancements",
 		"Stylus",
-		"SublimeLinter",
-		"SublimeLinter-pep8",
-		"SublimeRope",
-		"Tag",
-		"Twitter Bootstrap Snippets",
 		"MarkdownPreview"
 	]
 }
