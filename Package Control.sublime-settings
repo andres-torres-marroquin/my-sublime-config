@@ -1,5 +1,13 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"CoffeeScript",
+		"RunCommand",
+		"SublimeRope",
+		"Tag"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -15,7 +23,6 @@
 		"Jinja2",
 		"jQuery",
 		"LESS",
-		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
 		"RunCommand",
@@ -29,6 +36,7 @@
 		"SublimeLinter-pep8",
 		"SublimeRope",
 		"Tag",
-		"Twitter Bootstrap Snippets"
+		"Twitter Bootstrap Snippets",
+		"MarkdownPreview"
 	]
 }
